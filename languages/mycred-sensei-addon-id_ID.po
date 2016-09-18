@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED Sensei Add-On\n"
+"POT-Creation-Date: 2016-04-18 14:27+0700\n"
+"PO-Revision-Date: 2016-04-18 14:37+0700\n"
+"Last-Translator: \n"
+"Language-Team: Kishore Sahoo\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../mycred-sensei.php:34
+msgid "Enrolled in Course"
+msgstr "Memulai kursus"
+
+#: ../mycred-sensei.php:35
+msgid "Enrolled in Course from a Category"
+msgstr "Memulai kursus dari kategori"
+
+#: ../mycred-sensei.php:36
+msgid "Passed Quiz"
+msgstr "Berhasil menyelesaikan kuis"
+
+#: ../mycred-sensei.php:37
+msgid "Minimum % Grade on a Quiz"
+msgstr "Nilai minimum kuis"
+
+#: ../mycred-sensei.php:38
+msgid "Completed Lesson"
+msgstr "Selesai pelajaran"
+
+#: ../mycred-sensei.php:39
+msgid "Completed Course"
+msgstr "Selesai kursus"
+
+#: ../mycred-sensei.php:40
+msgid "Completed Course from a Category"
+msgstr "Selesai kursus di kategori"
+
+#: ../mycred-sensei.php:78
+msgid "Plugin myCRED Sensei Add-On need myCRED and Sensei to run!"
+msgstr ""
+"Plugin myCRED Sensei Add-On memerlukan berjalannya plugin myCRED dan Sensei!"
+
+#: ../mycred-sensei.php:88
+msgid "Welcome to myCRED Sensei Add-On"
+msgstr "Selamat Datang di myCRED Sensei Add-On"
+
+#: ../mycred-sensei.php:89
+msgid "You're almost ready"
+msgstr "Anda hampir siap"
+
+#: ../mycred-sensei.php:91
+msgid "Add Your Sensei Activity Rule"
+msgstr "Tambah Aturan Aktifitas Sensei"
+
+#: ../post-type.php:25
+msgid "myCRED Sensei"
+msgstr ""
+
+#: ../post-type.php:26
+msgid "View All Rules"
+msgstr "Lihat semua aturan"
+
+#: ../post-type.php:27
+msgid "Add Rule"
+msgstr "Tambah aturan"
+
+#: ../post-type.php:28
+msgid "Add New myCRED Sensei Rule"
+msgstr "Tambah aturan myCRED Sensei baru"
+
+#: ../post-type.php:29 ../post-type.php:30
+msgid "Edit Rule"
+msgstr "Edit aturan"
+
+#: ../post-type.php:46
+msgid "Entry Title"
+msgstr "Judul entri"
+
+#: ../post-type.php:47 ../inc/meta-box.php:19
+msgid "Sensei Activity"
+msgstr "Aktivitas sensei"
+
+#: ../post-type.php:48 ../inc/meta-box.php:53
+msgid "Point"
+msgstr "Poin"
+
+#: ../post-type.php:49
+msgid "Date"
+msgstr "Tanggal"
+
+#: ../post-type.php:82
+msgid "Rule Properties"
+msgstr "Pengaturan aturan"
+
+#: ../post-type.php:213 ../post-type.php:248
+msgid "Course"
+msgstr "Kursus"
+
+#: ../post-type.php:219 ../post-type.php:254
+msgid "Course Category"
+msgstr "Kategori kursus"
+
+#: ../post-type.php:225 ../post-type.php:231
+msgid "Quiz"
+msgstr "Kuis"
+
+#: ../post-type.php:236
+msgid "Percent Of Grade"
+msgstr "Persen nilai"
+
+#: ../post-type.php:242
+msgid "Lesson"
+msgstr "Pelajaran"
+
+#: ../post-type.php:260
+msgid "invalid code"
+msgstr "Salah kode"
+
+#: ../inc/meta-box.php:37
+msgid "Sensei activity to trigger this rule"
+msgstr "Aktivitas sensei untuk menjalankan aturan ini"
+
+#: ../inc/meta-box.php:46
+msgid "Times"
+msgstr "Berapa kali"
+
+#: ../inc/meta-box.php:49
+msgid "How many times per point"
+msgstr "Berapa kali per kuis"
+
+#: ../inc/meta-box.php:56
+msgid "Point will be earned"
+msgstr "Poin yang akan didapat"
+
+#: ../inc/meta-box.php:60
+msgid "Max Earned"
+msgstr "Maksimal yang didapat"
+
+#: ../inc/meta-box.php:63
+msgid "Maximum times of earned this reference"
+msgstr "Maksimal berapa kali mendapatkan poin dari aturan ini"
