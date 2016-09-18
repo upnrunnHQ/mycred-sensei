@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name: myCRED Sensei Add-On
- * Plugin URI: http://shop.opentuteplus.com/mycred-sensei-addon
+ * Plugin URI: https://shop.opentuteplus.com/product/mycred-sensei/
  * Description: This myCRED add-on integrates myCRED features with Sensei
  * Version: 1.0.1
- * Author: Kishore Sahoo
+ * Author: OpenTute+
  * Author URI: http://opentuteplus.com
  * Requires at least: WP 4, Sensei 1.9.3, myCRED 1.7.2
  * Text Domain: mycred-sensei-addon
  * Domain Path: /languages/
- * Copyright: 2016 Kishore Sahoo
+ * Copyright: 2016 OpenTute+
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  */
